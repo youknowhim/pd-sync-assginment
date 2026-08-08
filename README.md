@@ -20,7 +20,7 @@ The synchronization follows these steps:
 
 ## Project Structure
 
-    pd-sync-assignment/
+    pd-sync-assginment/
     ├── src/
     │   ├── index.ts
     │   ├── mappings/
@@ -54,7 +54,7 @@ Before running the project locally, make sure you have:
 ### 1. Clone the Repository
 
     git clone <your-repository-url>
-    cd pd-sync-assignment
+    cd pd-sync-assginment
 
 ### 2. Install Dependencies
 
